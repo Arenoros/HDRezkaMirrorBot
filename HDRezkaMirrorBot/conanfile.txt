@@ -1,0 +1,2 @@
+[requires]
+tgbot/1.5
